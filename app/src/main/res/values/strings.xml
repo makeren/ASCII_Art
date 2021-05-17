@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsciiArt</string>
+    <string name="input_desired_ascii_output_width_i_e_how_many_characters_wide">Input desired ASCII output width (i.e. how many characters wide):</string>
+    <string name="select_image">SELECT IMAGE</string>
+    <string name="turn_into_ascii">Turn into ASCII</string>
+    <string name="copy_to_clipboard">Copy to Clipboard</string>
+</resources>
